@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "ABC News",
+      "title": "Former Australian cricket captain Karen Rolton reflects on first multi-format series against India",
+      "description": "The hosts may have won the inaugural Australia–India women’s series trophy, but there are plenty of talking points that emerged from the contest that are more important to the future of women's cricket.",
+      "url": "http://www.abc.net.au/news/2021-10-13/cricket-australia-india-multi-format-series-karen-rolton/100534574",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/d38dfa100b74458269b0520e8eeb60ba?impolicy=wcms_crop_resize&cropH=2207&cropW=3924&xPos=0&yPos=173&width=862&height=485",
+      "publishedAt": "2021-10-13T02:20:10Z",
+      "content": "Last week, the Australian women's cricket team clinched their first international series of the summer, beating India 11-5 in the inaugural multi-format series.\r\nIn a fiercely contested series, there… [+6407 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "A World Cup With A New And Unfamiliar Twist",
+      "description": "In different corners of the world, excitement is bubbling for the T20 World Cup. Martin Rogers looks at the future of cricket in the U.S.",
+      "url": "http://www.foxsports.com/stories/other/cricket-t20-world-cup-with-new-unfamiliar-twist",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/10/1408/814/622.2_Newsletter_1920x1080_Cricket_T20.jpg?ve=1&tl=1",
+      "publishedAt": "2021-10-13T00:40:39Z",
+      "content": "By Martin RogersFOX Sports Columnist\r\nA global sporting celebration, with an expected worldwide audience in excess of 1.5 billion, will get going this weekend. And, for the most part, Americans wont … [+4899 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
